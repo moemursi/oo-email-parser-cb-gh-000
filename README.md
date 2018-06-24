@@ -12,7 +12,7 @@ You will be writing an `EmailParser` class that gets initialized with a string o
 Your job is to parse those emails into a useful array using an instance method,
 `parse`.
 
-I should be able to do this:
+I should be ablve to do this:
 
 ```ruby
 emails = "john@doe.com, person@somewhere.org"
